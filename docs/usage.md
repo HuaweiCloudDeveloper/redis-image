@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Redis数据库](https://marketplace.huaweicloud.com/hidden/contents/61248ad4-be4d-4078-a918-ad59ef63a52f?ticket=ST-8223825-6aEa9zuupRIti766ERlHkd0K-sso#productid=OFFI1111824746859552768)
+[Redis数据库](https://marketplace.huaweicloud.com/contents/61248ad4-be4d-4078-a918-ad59ef63a52f?ticket=ST-8223825-6aEa9zuupRIti766ERlHkd0K-sso#productid=OFFI1111824746859552768)
 
 # 二、商品说明
 
