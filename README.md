@@ -31,7 +31,7 @@ Redis is a popular choice for developers worldwide due to its combination of spe
     - **Messaging and interservice communication:** job queues, message brokering, pub/sub, and streams for communicating between services
     - **Vector operations:** Long-term and short-term LLM memory, RAG content retrieval, semantic caching, semantic routing, and vector similarity search
 
-The open-source image product [**Redis Database**](https://marketplace.huaweicloud.com/hidden/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768) provided by this project has Redis version 6.2.7 and its related runtime environment pre-installed and also offers deployment templates. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
+The open-source image product [**Redis Database**](https://marketplace.huaweicloud.com/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768) provided by this project has Redis version 6.2.7 and its related runtime environment pre-installed and also offers deployment templates. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
 
 > **System requirements are as follows:**
 > - CPU: 2 vCPUs or higher
@@ -43,9 +43,9 @@ The open-source image product [**Redis Database**](https://marketplace.huaweiclo
 
 ## Image Description
 
-| Image Specification                                                                                            | Feature Description | Remarks |
-|-------------------------------------------------------------------------------------------------| --- | --- |
-| [Redis6.2.7-arm-v1](https://github.com/HuaweiCloudDeveloper/redis-image/tree/Redis6.2.7-arm-v1) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| Image Specification                                                                               | Feature Description | Remarks |
+|---------------------------------------------------------------------------------------------------| --- | --- |
+| [Redis-6.2.7-kunpeng](https://github.com/HuaweiCloudDeveloper/redis-image/tree/Redis-6.2.7-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, you can contact us via [issues](https://github.com/HuaweiCloudDeveloper/redis-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.

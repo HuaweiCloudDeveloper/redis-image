@@ -32,7 +32,7 @@
     - **消息传递和服务间通信：** 用于服务之间通信的作业队列、消息代理、发布/订阅和流
     - **向量操作：** 长期和短期LLM内存、RAG内容检索、语义缓存、语义路由和向量相似性搜索
 
-本项目提供的开源镜像商品 [**Redis数据库**](https://marketplace.huaweicloud.com/hidden/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768) 已预先安装6.2.7版本的Redis及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Redis数据库**](https://marketplace.huaweicloud.com/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768) 已预先安装6.2.7版本的Redis及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 
 > **系统要求如下：**
@@ -47,7 +47,7 @@
 
 | 镜像规格                                                                                            | 特性说明 | 备注 |
 |-------------------------------------------------------------------------------------------------| --- | --- |
-| [Redis6.2.7-arm-v1](https://github.com/HuaweiCloudDeveloper/redis-image/tree/Redis6.2.7-arm-v1) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [Redis-6.2.7-kunpeng](https://github.com/HuaweiCloudDeveloper/redis-image/tree/Redis-6.2.7-kunpeng | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/redis-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
